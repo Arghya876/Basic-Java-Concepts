@@ -20,6 +20,7 @@ This repository contains a collection of basic Java programs demonstrating funda
 9. [assignmentOperator.java](assignmentOperator.java) - Demonstrates the use of assignment operators (=, +=, -=, *=, /=, %=).
 10. [ternaryOperator.java](ternaryOperator.java) - Shows how to use the ternary operator for conditional expressions.
 11. [bitwiseOperator.java](bitwiseOperator.java) - Illustrates the use of bitwise operators (&, |, ^, ~) in Java.
+12. [ifelseStatement.java](ifelseStatement.java) - Demonstrates the use of if-else statements to control the flow of the program based on conditions.
 
 ## Acknowledgments
 
