@@ -21,8 +21,8 @@ This repository contains a collection of basic Java programs demonstrating funda
 10. [TernaryOperator.java](TernaryOperator.java) - Shows how to use the ternary operator for conditional expressions.
 11. [BitwiseOperator.java](BitwiseOperator.java) - Illustrates the use of bitwise operators (&, |, ^, ~) in Java.
 12. [IfElseStatement.java](IfElseStatement.java) - Demonstrates the use of if-else statements to control the flow of the program based on conditions.
-13. [ElseIfLadder.java](ElseIfLadderjava) - Demonstrates the use of an else-if ladder to determine grades based on marks.
-14. [PersonCategory.java](PersonCategoryjava) - Categorizes a person based on age and gender using nested if-else statements.
+13. [ElseIfLadder.java](ElseIfLadder.java) - Demonstrates the use of an else-if ladder to determine grades based on marks.
+14. [PersonCategory.java](PersonCategory.java) - Categorizes a person based on age and gender using nested if-else statements.
 
 ## Acknowledgments
 
