@@ -23,6 +23,10 @@ This repository contains a collection of basic Java programs demonstrating funda
 12. [IfElseStatement.java](IfElseStatement.java) - Demonstrates the use of if-else statements to control the flow of the program based on conditions.
 13. [ElseIfLadder.java](ElseIfLadder.java) - Demonstrates the use of an else-if ladder to determine grades based on marks.
 14. [PersonCategory.java](PersonCategory.java) - Categorizes a person based on age and gender using nested if-else statements.
+15. [SwitchCase.java](SwitchCase.java) - Demonstrates the use of the switch-case statement for multiple conditions.
+16. [WhileLoop.java](WhileLoop.java) - Shows how to use a while loop to repeat a block of code as long as a condition is true.
+17. [DoWhileLoop.java](DoWhileLoop.java) - Illustrates the use of a do-while loop to execute a block of code at least once.
+18. [ForLoop.java](ForLoop.java) - Demonstrates the use of a for loop to iterate over a range of values.
 
 ## Acknowledgments
 
