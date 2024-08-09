@@ -27,6 +27,7 @@ This repository contains a collection of basic Java programs demonstrating funda
 16. [WhileLoop.java](WhileLoop.java) - Shows how to use a while loop to repeat a block of code as long as a condition is true.
 17. [DoWhileLoop.java](DoWhileLoop.java) - Illustrates the use of a do-while loop to execute a block of code at least once.
 18. [ForLoop.java](ForLoop.java) - Demonstrates the use of a for loop to iterate over a range of values.
+19. [ForEachLoop.java](ForEachLoop.java) - Shows how to use the enhanced for loop (for-each loop) to iterate over arrays and collections.
 
 ## Acknowledgments
 
