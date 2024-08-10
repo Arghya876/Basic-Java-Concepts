@@ -1,6 +1,6 @@
-# Basic Java Programs
+# Basic Java Concepts
 
-This repository contains a collection of basic Java programs demonstrating fundamental concepts and syntax in Java. These programs are designed for beginners and cover various topics such as input/output operations, control structures, loops, logical operators, and more.
+This repository contains a collection of basic Java program demonstrating fundamental concepts and syntax in Java. These programs are designed for beginners and cover various topics such as input/output operations, control structures, loops, logical operators, and more.
 
 ## Prerequisites
 
